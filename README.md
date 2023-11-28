@@ -19,7 +19,7 @@
     </td>
     <td align="center" width="92px">
       <a href="https://github.com/Woogie-94" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/59603529?v=4" alt="팀원 프로필" />
+        <img src="https://github.com/jutrong/jutrong/assets/113658811/3f527346-2d16-4395-bd1b-7eba9ac506e3" alt="주트롱 프로필" />
       </a>
     </td>
     <td align="center" width="92px">
@@ -40,8 +40,8 @@
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com" target="_blank">
-        팀원2
+      <a href="https://github.com/jutrong" target="_blank">
+        주트롱
       </a>
     </td>
     <td align="center">
