@@ -18,7 +18,7 @@
       </a>
     </td>
     <td align="center" width="92px">
-      <a href="https://github.com/Woogie-94" target="_blank">
+      <a href="https://github.com/jutrong" target="_blank">
         <img src="https://github.com/jutrong/jutrong/assets/113658811/3f527346-2d16-4395-bd1b-7eba9ac506e3" alt="주트롱 프로필" />
       </a>
     </td>
