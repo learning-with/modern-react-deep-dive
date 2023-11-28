@@ -24,7 +24,7 @@
     </td>
     <td align="center" width="92px">
       <a href="https://github.com/Woogie-94" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/59562141?v=4" alt="지윤 프로필" />
+        <img src="https://t1.daumcdn.net/cfile/tistory/200FFC524DFF67D21A" alt="지윤 프로필" />
       </a>
     </td>
   </tr>
