@@ -23,7 +23,7 @@
       </a>
     </td>
     <td align="center" width="92px">
-      <a href="https://github.com/Woogie-94" target="_blank">
+      <a href="https://github.com/jiyoon-lee" target="_blank">
         <img src="https://t1.daumcdn.net/cfile/tistory/200FFC524DFF67D21A" alt="지윤 프로필" />
       </a>
     </td>
