@@ -13,8 +13,8 @@
       </a>
     </td>
     <td align="center" width="92px">
-      <a href="https://github.com/Woogie-94" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/59603529?v=4" alt="팀원 프로필" />
+      <a href="https://github.com/honki12345" target="_blank">
+        <img src="https://github.com/learning-with/learning-react/assets/70520674/babd221c-3866-42ed-a9a7-712c306b9707" alt="핵기 프로필" />
       </a>
     </td>
     <td align="center" width="92px">
@@ -30,8 +30,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com" target="_blank">
-        팀원1
+      <a href="https://github.com/honki12345" target="_blank">
+        핵기
       </a>
     </td>
      <td align="center">
