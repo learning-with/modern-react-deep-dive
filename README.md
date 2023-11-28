@@ -22,6 +22,11 @@
         <img src="https://avatars.githubusercontent.com/u/59603529?v=4" alt="팀원 프로필" />
       </a>
     </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/Woogie-94" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/59562141?v=4" alt="지윤 프로필" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -37,6 +42,11 @@
      <td align="center">
       <a href="https://github.com" target="_blank">
         팀원2
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jiyoon-lee" target="_blank">
+        지윤
       </a>
     </td>
   </tr>
